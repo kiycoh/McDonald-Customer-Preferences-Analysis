@@ -40,9 +40,7 @@ The dataset includes survey results from McDonald's customers, capturing demogra
 
 # **Getting Started**
 
-1. **Clone the repository**: `git clone https://github.com/your-username/mcdonalds-data-analysis.git`
-2. **Install dependencies**: `pip install -r requirements.txt`
-3. **Run the analysis**: Open `McDonalds_Customer_Analysis.ipynb` in Jupyter Notebook and execute the cells.
+1. **Run the analysis**: Open `McDonalds_Customer_Analysis.ipynb` in Jupyter Notebook and execute the cells.
 
 ## **License**
 
