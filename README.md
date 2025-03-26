@@ -52,7 +52,7 @@ The dataset includes survey results from McDonald's customers, capturing demogra
 
 # **Getting Started**
 
-1. **Run the analysis**: Open `McDonalds_Customer_Analysis.ipynb` in Jupyter Notebook and execute the cells.
+Just **run the analysis**: Open `McDonalds_Customer_Analysis.ipynb` in Jupyter Notebook and execute the cells.
 
 ## **License**
 
